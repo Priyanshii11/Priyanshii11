@@ -59,11 +59,7 @@
 </div>
 
 
-## Views and Followers
-<a href="https://github.com/priyanshii11/github-profile-views-counter">
- <img src="https://komarev.com/ghpvc/?username=priyanshii11&color=green">
-</a>
-<a href="https://github.com/priyanshii?tab=followers"><img src="https://img.shields.io/github/followers/priyanshii11?label=Followers&style=social" alt="GitHub Badge"></a>
+
  
 
 
