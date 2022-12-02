@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="600px"/><br><h1>Welcome💕!!!!</h1>
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="600px"/><br>
 </div>
 
 
- <h1 align="center"> Hello <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100px"> , I'm Priyanshii Khare</h1>
+ <h1 align="center"> Hello <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="80px"> , I'm Priyanshii Khare :)</h1>
  
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
@@ -13,8 +13,11 @@
  
  - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
- - ✨ Interested in exploring  **Android Development*
+ - 🌱 I'm currently learning  **Android Development*
  - 📫 To get in touch with me, please email me at priyanshik222@gmail.com
+ - ⚡ Fun fact: ...little bit funny
+ -- 😄 Pronouns: ...dearly
+
 
 
 ## 💻My Technical Skills
@@ -51,23 +54,8 @@
 
 
 ## Let's Connect Here👇:
-
 <div align="center">
-
-
 <a  href="https://www.linkedin.com/in/priyanshii-khare-984b95250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+<h3 align="center">Thanks for visiting 🙌🙌</h3>
 </div>
-
-
-
- 
-
-
-About me:
-
-- 🌱 I’m currently learning ...Android App development 
-
-- 😄 Pronouns: ...dearly
-- ⚡ Fun fact: ...little bit funny
