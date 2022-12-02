@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=TMF69je6zBrb4w&riu=http%3a%2f%2fwww.cartoonbucket.com%2fwp-content%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif&ehk=%2fuUhMW1M7LTRIvXg8OWTKCR1n9IoWkNK1igokCXhBkE%3d&risl=&pid=ImgRaw&r=0" height="200px" width ="200px"/>
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="300px"/>
 </div>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshii K
