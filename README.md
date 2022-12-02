@@ -2,7 +2,8 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" height="300px" width ="300px"/>
 </div>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshii khare</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshii K
+ hare</h1>
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
 
