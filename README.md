@@ -13,10 +13,10 @@
  
  - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
- - 🌱 I'm currently learning  **Android Development*
+ - 🌱 I'm currently learning  **Java & Android Development*
  - 📫 To get in touch with me, please email me at priyanshik222@gmail.com
  - ⚡ Fun fact: ...little bit funny
- -- 😄 Pronouns: ...dearly
+ - 😄 Pronouns: ...dearly
 
 
 
@@ -58,3 +58,4 @@
 <a  href="https://www.linkedin.com/in/priyanshii-khare-984b95250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
 
 </div>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prianshii11&theme=default" /></a>
