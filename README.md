@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="300px"/>
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="600px"/><br><h1>Welcome💕!!!!</h1>
 </div>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshii K
- hare</h1>
+
+ <h1 align="center"> Hello <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100px"> , I'm Priyanshii Khare</h1>
+ 
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
 
