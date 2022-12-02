@@ -64,7 +64,7 @@
  
 
 
-Here are some ideas to get you started:
+About me:
 
 - 🌱 I’m currently learning ...Android App development 
 
