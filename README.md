@@ -66,6 +66,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...Android App development 
-- 📫 How to reach me:priyanshik222@gmail.com
+
 - 😄 Pronouns: ...dearly
 - ⚡ Fun fact: ...little bit funny
