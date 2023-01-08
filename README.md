@@ -24,13 +24,10 @@
 ## Let's Connect Here👇:
 <div align="center">
 <a  href="https://www.linkedin.com/in/priyanshii-khare-984b95250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
- <a  href="https://instagram.com/Priyanshii.11" target="_blank"> <img alt= "Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg??&style=for-the-badge&logo=Instagram&logoColor=white"/></a><br>
+<a  href="https://instagram.com/Priyanshii.11" target="_blank"> <img alt= "Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg??&style=for-the-badge&logo=Instagram&logoColor=white"/></a><br>
 
 </div>
-
-
- <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prianshii11&theme=default" /></a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prianshii11&theme=default" /></a>
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -58,5 +55,3 @@
 <div align="center">
 <img src="https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg" height="200px" width ="400px"/><br>
 </div>
-</br>
-
