@@ -38,15 +38,13 @@
 
 
 ## 📊 My Github Stats and Graph
-<div> 
-  <br/>
- <a href="https://github.com/priyanshii11/github-readme-stats"><img alt="Priyanshii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshii11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/priyanshii11/github-readme-stats"><img alt="priyanshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshii11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/></p>
-  
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
+<div align = "center" >
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshii11&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshii11)](https://github.com/anuraghazra/github-readme-stats)
+</div> 
+ <p align= "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="Priyanshi"/></p>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
 <br/>
 
 ## ✍️ Random Quote :
