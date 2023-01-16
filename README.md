@@ -40,15 +40,14 @@
 ## 📊 My Github Stats and Graph
 <div align = "center" >
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshii11&show_icons=true)
- 
+
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshii11&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshii11)](https://github.com/anuraghazra/github-readme-stats)
 </div> <p align ="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="Priyanshi"/>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /><
-
- </div>
+ 
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
 <br/>
 
 ## ✍️ Random Quote :
 <div align="center">
-<img src="https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg" height="150px" width ="300px"/><br>
+<img src="https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg" height="150px" width ="300px"/></div>
