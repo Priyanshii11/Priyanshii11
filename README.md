@@ -41,10 +41,12 @@
 <div align = "center" >
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshii11&show_icons=true)
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshii11)](https://github.com/anuraghazra/github-readme-stats)
-</div> 
- <p align= "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="Priyanshi"/></p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
+</div> <p align ="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="Priyanshi"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /><
+
+ </div>
 <br/>
 
 ## ✍️ Random Quote :
