@@ -51,8 +51,4 @@
 ## ✍️ Random Quote :
 <div align="center">
 <img src="https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg" height="150px" width ="300px"/>
-
-
-
-
 </div>
