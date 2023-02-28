@@ -47,11 +47,3 @@
  
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/Priyanshii1109/github-readme-activity-graph" /></div>
  <br>
-
-
-## ✍️ Random Quote :
-<div align="center">
-<img src="https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg" height="150px" width ="300px"/> 
- 
-</div>
-
