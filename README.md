@@ -14,7 +14,7 @@
  - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
  - 🌱 I'm currently learning  *Java & Android Development*
- - 📫 Email me at *priyanshik222@gmail.com*
+ 
  - ⚡ Fun fact: ...*little bit funny🫡*<br>
  - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=red">
 </a>
