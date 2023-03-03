@@ -34,6 +34,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img alt="Andoid Studio" src="https://img.shields.io/badge/Andoid-Studio-svg?style=for-the-badge&logo=Android&logoColor=white)" />
 <br/>
+
+
 <br>
 
 
@@ -49,9 +51,11 @@
  <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/></p>
   </div>
+<br>
 
 
 
  
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/Priyanshii1109/github-readme-activity-graph" /></div>
  <br>
+
