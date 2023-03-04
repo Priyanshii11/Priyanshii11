@@ -16,7 +16,7 @@
  - 🌱 I'm currently learning  *Java & Android Development*
  
  - ⚡ Fun fact: ...*little bit funny🫡*<br>
- - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=red">
+ - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue">
 </a>
  
 ## Let's Connect Here👇:
