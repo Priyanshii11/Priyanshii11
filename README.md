@@ -28,32 +28,23 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prianshii11&theme=default" /></a>
 
 ## 💻 Tech Stack:
+
+<div align="center">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img alt="Andoid Studio" src="https://img.shields.io/badge/Andoid-Studio-svg?style=for-the-badge&logo=Android&logoColor=white)" />
+<img alt="Andoid Studio" src="https://img.shields.io/badge/Andoid-Studio-svg?style=for-the-badge&logo=Android&logoColor=white)" /></div>
 <br/>
-
-
-<br>
 
 
 ## 📊 My Github Stats and Graph
 <div align = "center" >
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshii11&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)
-
-
- 
- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/></p>
-  </div>
-
-
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=433b3f&line=d07ec7&point=8d256c&area=false&hide_border=false)](https://github.com/Priyanshii1109/github-readme-activity-graph" height = "300px" width = "600px"/></div>
- <br>
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshii11&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=2077)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=blue_green" alt="priyanshi"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=433b3f&line=d07ec7&point=8d256c&area=false&hide_border=false)](https://github.com/Priyanshii1109/github-readme-activity-graph" height = "300px" width = "600px"/>
+ </div>
