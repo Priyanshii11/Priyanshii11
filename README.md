@@ -15,7 +15,7 @@
  - 🙌 **Open Source Projects** are something I'd like to work on.
  - 🌱 I'm currently learning  *Java & Android Development*
  
- - ⚡ Fun fact: ...*little bit funny🫡*<br>
+ - ⚡ Fun fact: ...*...........nothing🫡*<br>
  - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue">
 </a>
  
@@ -35,6 +35,16 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-440137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+ ![MySQL](https://img.shields.io/badge/mysql-%2320f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![firebase](https://img.shields.io/badge/firebase-%2920f.svg?style=for-the-badge&logo=firebase&logoColor=#FF61F6)
+ 
+ 
+![Linux](https://img.shields.io/badge/Linux-03443C?style=for-the-badge&logo=Linux&logoColor=white) 
+ ![Windows](https://img.shields.io/badge/windows-3834F7?style=for-the-badge&logo=windows&logoColor=white)
+ ![Android](https://img.shields.io/badge/Android-1FAA54?style=for-the-badge&logo=Android&logoColor=black) 
+ ![Git](https://img.shields.io/badge/Git-F03032?style=for-the-badge&logo=git&logoColor=white) 
+ ![Github](https://img.shields.io/badge/GitHub-181417?style=for-the-badge&logo=github&logoColor=white)
 <img alt="Andoid Studio" src="https://img.shields.io/badge/Andoid-Studio-svg?style=for-the-badge&logo=Android&logoColor=white)" /></div>
 <br/>
 
