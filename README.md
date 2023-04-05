@@ -3,7 +3,8 @@
 </div>
 
 
- <h1 align="center"> Hello <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="80px"> , I'm Priyanshii Khare :)</h1>
+ <h1 align="center"> Hello
+ <img src="https://media.tenor.com/1FRxK0qv1LUAAAAC/hello-hi.gif" height = 80px width = 40px/> , I'm Priyanshii Khare</h1>
  
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
