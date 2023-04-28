@@ -10,6 +10,7 @@
 # About Me😜: 
  
  
+ 
  - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
  - 🌱 I'm currently learning  *Java & Android Development*
