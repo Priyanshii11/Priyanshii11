@@ -2,53 +2,14 @@
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="600px"/><br>
 </div>
 
-
-
-
-
-
  <h1 align="center"> Hello
  <img src="https://media.tenor.com/1FRxK0qv1LUAAAAC/hello-hi.gif" height = 80px /> , I'm Priyanshii Khare</h1>
  
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
 # About Me😜: 
- 
- 
 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
+  - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
  - 🌱 I'm currently learning  *Java & Android Development*
  
@@ -84,17 +45,12 @@
 <img alt="Andoid Studio" src="https://img.shields.io/badge/Andoid-Studio-svg?style=for-the-badge&logo=Android&logoColor=white)" /></div>
 <br/>
 
-
-
-
 ## 📊 My Github Stats and Graph
 <div align = "center" >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshii11&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshii11&bg_color=e59ac2&color=433b3f&line=d07ec7&point=8d256c&area=false&hide_border=false)](https://github.com/Priyanshii1109/github-readme-activity-graph" height = "300px" width = "600px"/>
- </div> 
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/>
+  
+  </div> 
 
