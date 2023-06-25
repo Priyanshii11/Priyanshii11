@@ -2,10 +2,6 @@
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="600px"/><br>
 </div>
 
-
-
-
-
  <h1 align="center"> Hello
  <img src="https://media.tenor.com/1FRxK0qv1LUAAAAC/hello-hi.gif" height = 80px /> , I'm Priyanshii Khare</h1>
  
@@ -50,11 +46,12 @@
 <br/>
 
 ## 📊 My Github Stats and Graph
+
 <div align = "center" >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshii11&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/>
-  
-  </div> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/>
 
+  </div> 
