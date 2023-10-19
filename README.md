@@ -37,6 +37,7 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2320f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![firebase](https://img.shields.io/badge/firebase-%2920f.svg?style=for-the-badge&logo=firebase&logoColor=#FF61F6)
  
+
  
 ![Linux](https://img.shields.io/badge/Linux-03443C?style=for-the-badge&logo=Linux&logoColor=white) 
  ![Windows](https://img.shields.io/badge/windows-3834F7?style=for-the-badge&logo=windows&logoColor=white)
