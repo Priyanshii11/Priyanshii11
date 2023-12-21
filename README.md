@@ -49,10 +49,11 @@
 ## 📊 My Github Stats and Graph
 
 <div align = "center" >
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=tokyonight)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshii11&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)
+ -->
+
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/>
 
   </div> 
