@@ -18,6 +18,8 @@
  - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue">
 </a>
 
+
+
 ## Let's Connect Here👇:
 <div align="center">
 <a  href="https://www.linkedin.com/in/priyanshii-khare-984b95250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -49,11 +51,11 @@
 ## 📊 My Github Stats and Graph
 
 <div align = "center" >
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshii11&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshii11&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshii11&theme=tokyonight)
- -->
 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshii11&theme=react" alt="priyanshi"/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshii11&show_icons=true&count_private=true&theme=tokyonight)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Priyanshii11&theme=tokyonight)  
+
 
   </div> 
