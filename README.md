@@ -13,8 +13,7 @@
   - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
  - 🙌 **Open Source Projects** are something I'd like to work on.
  - 🌱 I'm currently learning  *Java & Android Development*
- 
- - ⚡ Fun fact: ...*...........nothing🫡*<br>
+ ⚡ Fun fact: ...*...........nothing🫡*<br>
  - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue">
 </a>
 
@@ -24,7 +23,7 @@
 
 ## Let's Connect Here👇:
 <div align="center">
-<a  href="https://www.linkedin.com/in/priyanshii-khare-984b95250" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/priyanshi-khare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a  href="https://instagram.com/Priyanshii.11" target="_blank"> <img alt= "Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg??&style=for-the-badge&logo=Instagram&logoColor=white"/></a><br>
 
 </div>
