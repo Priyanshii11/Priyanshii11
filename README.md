@@ -12,6 +12,7 @@ div>
 
 <br>
 <div align = "left">
+  
  -💻 Right now, I’m focused on sharpening my technical skills.<br>
  
  -📚 I'm currently learning Java, Android Development, and exploring web development.<br>
@@ -39,7 +40,8 @@ div>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="41" alt="canva logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"
+  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="41" alt="csharp logo"  />
   <img width="15" />
