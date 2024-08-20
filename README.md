@@ -6,7 +6,7 @@
 <h2 align="center">Hey👋, I'm Priyanshii from India.</h2>
 <br clear="both">
 
-<p align="center">Currently, I am a graduate with a Bachelor's Degree (BCA) from the University of Allahabad, actively working on various projects in Android development and UI/UX design.</p>
+<h4 align="center">Currently, I am a graduate with a Bachelor's Degree (BCA) from the University of Allahabad, actively working on various projects in Android development and UI/UX design.</h4>
 <br>
 
 <h2 align="left">👩‍💻  About Me</h2>
@@ -14,10 +14,14 @@
 <br>
 
  -💻 Right now, I’m focused on sharpening my technical skills.<br>
+ 
  -📚 I'm currently learning Java, Android Development, and exploring web development.<br>
+ 
  -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
+ 
  -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡
 
+<br>
 <h2 align="left">🛠 Language and tools</h2>
 <br>
 
@@ -95,5 +99,7 @@
 <br>
 <div align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshii11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph" /> <br>
+  <br>
+  
   <img src="https://streak-stats.demolab.com?user=priyanshii11&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=7&order=3" height="180" alt="streak graph"  />
 </div>
