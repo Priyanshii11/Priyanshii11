@@ -15,9 +15,13 @@ div>
  -💻 Right now, I’m focused on sharpening my technical skills.<br>
  
  -📚 I'm currently learning Java, Android Development, and exploring web development.<br>
+ 
  -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
+ 
  -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡<br>
+ 
  -🌐Profile Views <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue"></a>
+ 
 </div>
 <br>
 <h2 align="left">🛠 Language and tools</h2>
