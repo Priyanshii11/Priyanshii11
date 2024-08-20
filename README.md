@@ -97,18 +97,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshii11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=priyanshii11&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=7&order=3" height="180" alt="streak graph"  />
 </div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/priyanshii11/priyanshii11/output/snake.svg" alt="Snake animation" />
-
-
-<br>
-<div align="center">
- 
-  <img height="174" src="https://files.oaiusercontent.com/file-sUCT0ZMZ8AITRHCFvpOggY4m?se=2024-08-20T15%3A26%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Deabd6358-ecf2-4053-93a1-e68e90bcdec1.webp&sig=mvd381uV32JiM8vMNgJArJP3PhoNULVqJbZzBlJjgvs%3D"  />
-</div>
-<br>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/priyanshii11/count.svg?"  />
-</div>
