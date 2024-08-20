@@ -1,6 +1,7 @@
 <div align="center">
   <img  src="https://www.bing.com/th/id/OGC.e4e49b1aefb967df084fcafbe942596f?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f74038190%2f248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif&ehk=MnsXOR5la7lz%2bxrSsIz3rDA8m%2boncchC5NHKJUcmgJI%3d" height="300px"   />
-</div>
+</
+div>
 <br clear="both">
 
 <h2 align="center">Hey👋, I'm Priyanshii from India.</h2>
@@ -10,15 +11,14 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 <br>
-
+<div align = "left">
  -💻 Right now, I’m focused on sharpening my technical skills.<br>
  
  -📚 I'm currently learning Java, Android Development, and exploring web development.<br>
- 
  -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
- 
- -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡
-
+ -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡<br>
+ -🌐Profile Views <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue"></a>
+</div>
 <br>
 <h2 align="left">🛠 Language and tools</h2>
 <br>
