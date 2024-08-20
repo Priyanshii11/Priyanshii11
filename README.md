@@ -1,62 +1,114 @@
-
 <div align="center">
- 
-<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="300px" width ="600px"/><br>
+  <img  src="https://www.bing.com/th/id/OGC.e4e49b1aefb967df084fcafbe942596f?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f74038190%2f248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif&ehk=MnsXOR5la7lz%2bxrSsIz3rDA8m%2boncchC5NHKJUcmgJI%3d" height="300px"   />
 </div>
- <h1 align="center"> Hello
- <img src="https://media.tenor.com/1FRxK0qv1LUAAAAC/hello-hi.gif" height = 80px /> , I'm Priyanshii Khare</h1>
+<br clear="both">
 
-<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
+<h2 align="center">Hey👋, I'm Priyanshii from India.</h2>
+<br clear="both">
 
-# About Me😜: 
+<p align="center">Currently, I am a graduate with a Bachelor's Degree (BCA) from the University of Allahabad, actively working on various projects in Android development and UI/UX design.</p>
+<br>
 
-  - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
- - 🙌 **Open Source Projects** are something I'd like to work on.
- - 🌱 I'm currently learning  *Java & Android Development*
- ⚡ Fun fact: ...*...........nothing🫡*<br>
- - 🧑‍  Profile Views   <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue">
-</a>
+<h2 align="left">👩‍💻  About Me</h2>
 
+<br>
 
+ -💻 Right now, I’m focused on sharpening my technical skills.<br>
+ -📚 I'm currently learning Java, Android Development, and exploring web development.<br>
+ -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
+ -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡
 
+<h2 align="left">🛠 Language and tools</h2>
+<br>
 
-
-## Let's Connect Here👇:
+###
 <div align="center">
-<a  href="https://www.linkedin.com/in/priyanshi-khare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a  href="https://instagram.com/Priyanshii.11" target="_blank"> <img alt= "Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg??&style=for-the-badge&logo=Instagram&logoColor=white"/></a><br>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="41" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="41" alt="androidstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="41" alt="android logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="41" alt="behance logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="41" alt="canva logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="41" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="41" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="41" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="41" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="41" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="41" alt="kotlin logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="41" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="41" alt="xd logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="41" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="41" alt="dot-net logo"  />
 </div>
 
-## 💻 Tech Stack:
+<h2 align="left">💬 Let's Connect Here</h2>
+<br>
+
+###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/priyanshi-khare" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/priyanshikhare11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="45" height="35" alt="behance logo"  />
+  </a>
+  <a href="mailto:priyanshil222@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linktr.ee/priyanshikhare11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="45" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://instagram.com/Priyanshii.11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-440137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
- ![MySQL](https://img.shields.io/badge/mysql-%2320f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![firebase](https://img.shields.io/badge/firebase-%2920f.svg?style=for-the-badge&logo=firebase&logoColor=#FF61F6)
+<h2 align="left">🔥  My Stats:</h2>
+<br>
+<div align ="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshii11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=priyanshii11&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=7&order=3" height="180" alt="streak graph"  />
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/priyanshii11/priyanshii11/output/snake.svg" alt="Snake animation" />
+
+
+<br>
+<div align="center">
  
- 
-![Linux](https://img.shields.io/badge/Linux-03443C?style=for-the-badge&logo=Linux&logoColor=white) 
- ![Windows](https://img.shields.io/badge/windows-3834F7?style=for-the-badge&logo=windows&logoColor=white)
- ![Android](https://img.shields.io/badge/Android-1FAA54?style=for-the-badge&logo=Android&logoColor=black) 
- ![Git](https://img.shields.io/badge/Git-F03032?style=for-the-badge&logo=git&logoColor=white) 
- ![Github](https://img.shields.io/badge/GitHub-181417?style=for-the-badge&logo=github&logoColor=white)
-<img alt="Andoid Studio" src="https://img.shields.io/badge/Andoid-Studio-svg?style=for-the-badge&logo=Android&logoColor=white)" /></div>
-<br/>
-
-## 📊 My Github Stats and Graph
-
-<div align = "center" >
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshii11&show_icons=true&count_private=true&theme=tokyonight)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Priyanshii11&theme=tokyonight)  
-
-
-  </div> 
+  <img height="174" src="https://files.oaiusercontent.com/file-sUCT0ZMZ8AITRHCFvpOggY4m?se=2024-08-20T15%3A26%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Deabd6358-ecf2-4053-93a1-e68e90bcdec1.webp&sig=mvd381uV32JiM8vMNgJArJP3PhoNULVqJbZzBlJjgvs%3D"  />
+</div>
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/priyanshii11/count.svg?"  />
+</div>
