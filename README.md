@@ -20,6 +20,8 @@ div>
  -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
  
  -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡<br>
+
+ -📫 To get in touch with me, please email me at priyanshik222@gmail.com
  
  -🌐Profile Views <a href="https://github.com/priyanshii11/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=priyanshii11&color=blue"></a>
  
