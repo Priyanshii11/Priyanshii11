@@ -4,6 +4,7 @@
 div>
 <br clear="both">
 
+
 <h2 align="center">Hey👋, I'm Priyanshii from India.</h2>
 <h4 align="center">Currently, I am a graduate with a Bachelor's Degree (BCA) from the University of Allahabad, actively working on various projects in Android development and UI/UX design.</h4>
 <br>
@@ -19,7 +20,7 @@ div>
  
  -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
  
- -🎲Fun fact: **...I’m still searching for one, but the journey is fun!** 🫡<br>
+ -🎲Fun fact: **...I’m still searching for one!** 🫡<br>
 
  -📫 To get in touch with me, please email me at priyanshik222@gmail.com
  
