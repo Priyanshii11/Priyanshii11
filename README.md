@@ -16,7 +16,7 @@ div>
   
  -💻 Right now, I’m focused on sharpening my technical skills.<br>
  
- -📚 I'm currently learning Java, Android Development, and exploring web development.<br>
+ -📚 I'm currently learning Java, Android Development, and exploring frontend development.<br>
  
  -⚡ In my free time, I love sketching new design ideas, dancing, and stargazing.<br> 
  
