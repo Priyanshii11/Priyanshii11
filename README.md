@@ -104,6 +104,8 @@ div>
 <h2 align="left">🔥  My Stats:</h2>
 <br>
 <div align ="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshii11&show_icons=true&locale=en&layout=compact" alt="priyanshii" /></p>
+
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshii11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph" /> <br>
   <br>
   
