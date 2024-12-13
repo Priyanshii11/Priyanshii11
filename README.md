@@ -5,8 +5,8 @@ div>
 <br clear="both">
 
 
-<h2 align="center">Hey👋, I'm Priyanshii from India.</h2>
-<h4 align="center">Currently, I am a graduate with a Bachelor's Degree (BCA) from the University of Allahabad, actively working on various projects in Android development and UI/UX design.</h4>
+<h2 align="center">Hey👋, I'm Priyanshii .</h2>
+<h4 align="center">Currently,working on various projects in Android development and UI/UX design.</h4>
 <br>
 
 <h2 align="left">👩‍💻  About Me</h2>
@@ -68,13 +68,7 @@ div>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="41" alt="linux logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="41" alt="xd logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="41" alt="visualstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="c logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="41" alt="dot-net logo"  />
 </div>
